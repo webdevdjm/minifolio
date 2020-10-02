@@ -93,3 +93,5 @@ register_nav_menus(
 add_theme_support( 'post-thumbnails' );
 // Custom logo
 add_theme_support( 'custom-logo' );
+// Add title support
+add_theme_support( 'title-tag' );

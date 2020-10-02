@@ -5,13 +5,7 @@
 	License: GNU General Public License version 3.0
 	License URI: http://www.gnu.org/licenses/gpl-3.0.html
 	Version: 1.0
-
-/* ------------------------------------------------------------------------------
-	Typography
--------------------------------------------------------------------------------*/
-
-@import url(http://fonts.googleapis.com/css?family=Roboto:300,400,500,600,700);
-@import url(http://fonts.googleapis.com/css?family=Roboto%20Slab:300,400,500,600,700);
+*/
 
 p {
 	font-size: 14px;
@@ -298,8 +292,14 @@ ul li {
 -------------------------------------------------------------------------------*/
 
 .banner {
-	background-color: #65349c;
-	min-height: 750px;
+	/* background-color: #65349c; */
+	background-image: url(../images/bg.jpg), linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5));
+    background-blend-mode: overlay;
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	
+	min-height: 650px;
 }
 .banner-text {
 	padding-top: 28%;
