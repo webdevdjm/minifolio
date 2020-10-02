@@ -12,8 +12,8 @@
           ?>
         </ul>
         </p>
-        <p>© 2015 All rights reserved. All Rights Reserved<br>
-          Made with <i class="fa fa-heart pulse"></i> by <a href="http://www.designstub.com/">Designstub</a><br>
+        <p>© 2020<br>
+          Made with <i class="fa fa-heart pulse"></i> by <a href="http://www.designstub.com/" target="_blank">Designstub</a><br>
           Resesigned by <a href="#">Marcelo Vieira</a>
         </p>
       </div>
